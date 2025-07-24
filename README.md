@@ -1,6 +1,6 @@
 
 
-!CI(https://github.com/Salamulyon/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Salamulyon/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
